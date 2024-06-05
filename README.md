@@ -1,10 +1,23 @@
-<h1 align="center">Hi 👋, I'm Riad Hossain</h1>
-<h3 align="center">A passionate frontend developer</h3>
+# Hi there, I'm Riad Hossain! 👋
 
---🎓 CSE Student
---💻 Front End Developer
---🌱 Currently Learning Java
+**`Front End Developer | CSE Student | Java Learner`**
 
+---
+
+### 🌟 About Me
+
+- 🎓 I'm currently a Computer Science and Engineering student.
+- 💻 Passionate about front-end development.
+- 🌱 Expanding my skills by learning Java.
+
+---
+
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imriadh)](https://github.com/anuraghazra/github-readme-stats)
 
